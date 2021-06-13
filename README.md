@@ -1,0 +1,3 @@
+# tictactoe-AI
+
+requirement: pygame
